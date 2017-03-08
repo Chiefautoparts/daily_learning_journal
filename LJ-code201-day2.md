@@ -1,1 +1,2 @@
 #LJ-code201-day2
+worked on making yes or no question prompts using java, we had touched on that in the 102 class so i had a little understanding of it all right which really helped because java is the what i struggle the most with out of the 3 we are using. more and more though i look through the text book or google issues im having the more it makes sense. really looking forward to keep on pushing through. definitely get hit with a brick wall at points but the outcome will be completely worth the struggle. 
