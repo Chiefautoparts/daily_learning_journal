@@ -1,0 +1,1 @@
+probably the biggest thing that took away from today is how useful building a wireframe structure for the web page. I have primarily have just jumped in when starting something like this because id info on the project. but having to build a site from only a picture definitely brought forth some new and interesting challenges. 
